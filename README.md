@@ -1,3 +1,8 @@
+This repo was forked from the official [asdf-nodejs](https://github.com/asdf-vm/asdf-nodejs) plugin repository to attempt to fix a few basic issues when trying to switch from [nvm](https://github.com/creationix/nvm):
+* Get versioning from official [NodeJS](https://nodejs.org/dist) sources rather than from [Semver.io](https://semver.io)
+* Allow use of defined "LTS" or "wildcard" versions
+
+
 # asdf-nodejs
 
 [![Build Status](https://travis-ci.org/asdf-vm/asdf-nodejs.svg?branch=master)](https://travis-ci.org/asdf-vm/asdf-nodejs)
